@@ -1,1 +1,1 @@
-this is a demo repo
+this is a demo repo for shell scripts in linux
